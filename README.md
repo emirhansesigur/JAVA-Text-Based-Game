@@ -1,4 +1,5 @@
 ***JAVA-Text-Based-Game***
+
 This is my project I made for my Object-Oriented Programming lesson that I took in 1. class. We were expected to code a fight game which is text-based.
 
 **This project's aim was practicing the subjects we have learnt in OOP lesson.**
@@ -8,6 +9,11 @@ There are 10 inactive knights. In the beginning of the game, 5 Knights will be a
 You have 10 inactive enemies as well. 3, 4 or 5 of them (randomly depends on your luck) are activated, 1 or 2 Foes become strong Foe.
 
 ## Fight rules:
+|               | Strong Foe | Weak Foe |
+| ------------- | ---------- | -------- |   
+| Strong Knight | Can Beat   |   Can Beat      |
+| Weak Knight   | Can't Beat   |  Can beat   |
+
 In the table you can see who can beat the other. However, the game is not that much basic. Knights have good luck and bad luck.
 
 ## Luck:
