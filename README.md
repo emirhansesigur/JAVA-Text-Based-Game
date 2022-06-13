@@ -28,4 +28,9 @@ Each round, you choose a Knight and Foe. If your Knight can beat the Foe that yo
 ## How does the game end?
 If you can beat all the Foes, you win the game. While playing the game, if your activated knights number became less than activated foes number, you suddenly lose the game.
 
+
+
+## Here is the UML Diagram I used
+![NYP_Proje_UML_2022 (1)](https://user-images.githubusercontent.com/78687359/173394032-8d54fd06-6e9d-43f3-a2dd-3b91558a7b43.png)
+
 Run it from *GameManager.java*
