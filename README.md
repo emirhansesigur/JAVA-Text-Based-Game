@@ -1,8 +1,6 @@
 ***JAVA-Text-Based-Game***
 
-This is my project I made for my Object-Oriented Programming lesson that I took in 1. class. We were expected to code a fight game which is text-based.
-
-**This project's aim was practicing the subjects we have learnt in OOP lesson.**
+**This project's aim was practicing the subjects I have learnt in OOP.**
 
 ## Characters:
 There are 10 inactive knights. In the beginning of the game, 5 Knights will be activated randomly. 1 or 2 of them are going to be Strong Knight.
@@ -32,5 +30,7 @@ If you can beat all the Foes, you win the game. While playing the game, if your 
 
 ## Here is the UML Diagram I used
 ![NYP_Proje_UML_2022 (1)](https://user-images.githubusercontent.com/78687359/173394032-8d54fd06-6e9d-43f3-a2dd-3b91558a7b43.png)
+
+I made this game for my Object-Oriented Programming lesson that I took in 1. class.
 
 Run it from *GameManager.java*
